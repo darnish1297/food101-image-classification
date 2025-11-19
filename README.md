@@ -206,7 +206,7 @@ streamlit run app.py
 
 ## ✨ **Author**
 
-Your Name
+DARNISH S
 Computer Vision Final Project
 Food-101 Transfer Learning
 
